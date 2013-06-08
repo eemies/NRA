@@ -1,0 +1,2 @@
+Headerissä breakpoint contactille ja logolle on 942px.
+	----> Media query, joka muuttaa kyseisiä elementtejä kun leveys on < 942px.
