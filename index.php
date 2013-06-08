@@ -9,7 +9,7 @@
     <div id="logo"></div>
     <div id="contact">
       <div id="email-info">
-        <p><span>Yleisposti:</span>     info@nra.fi</p>
+        <p><span>Yleisposti:muutos</span>     info@nra.fi</p>
         <p><span>Jäsenasiat:</span>     jasenasiat@nra.fi</p>
         <p><span>Tiedottaja:</span>     tiedotus@nra.fi</p>
       </div>
